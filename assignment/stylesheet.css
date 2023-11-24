@@ -1,0 +1,17 @@
+header {
+    background-color: rgb(96, 96, 96);
+    text-align: center;
+
+}
+
+main {
+    margin: 1em;
+    background-color: rgb(251, 232, 207);
+}
+
+body {
+    margin: 0px;
+    background-image: url("record.png");
+    background-repeat: repeat;
+
+}
